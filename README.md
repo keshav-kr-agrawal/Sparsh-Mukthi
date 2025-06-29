@@ -5,6 +5,9 @@
   <p><i>Touchless Control System for Education, Healthcare, and VR Gaming</i></p>
 </div>
 
+## Link 
+https://sparsh-mukthi.vercel.app/
+
 ## 🌟 Overview
 
 Sparsh Mukthi is a comprehensive gesture recognition system designed for three key domains: Education, Healthcare, and VR Gaming. Built with modern computer vision technologies, it provides touchless interaction solutions particularly valuable in scenarios requiring hygiene (healthcare), immersive learning (education), and natural VR control (gaming).
